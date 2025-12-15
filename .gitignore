@@ -1,0 +1,6 @@
+# Ignorar configuraciones de Visual Studio
+.vs/
+*.vsidx
+*.user
+*.suo
+*.db

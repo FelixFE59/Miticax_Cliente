@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CapaGUI/1.0.0": {
+        "dependencies": {
+          "CapaEntidades": "1.0.0",
+          "CapaLogicaNegocio": "1.0.0"
+        },
+        "runtime": {
+          "CapaGUI.dll": {}
+        }
+      },
+      "CapaAccesoDatos/1.0.0": {
+        "dependencies": {
+          "CapaEntidades": "1.0.0"
+        },
+        "runtime": {
+          "CapaAccesoDatos.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CapaEntidades/1.0.0": {
+        "runtime": {
+          "CapaEntidades.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CapaLogicaNegocio/1.0.0": {
+        "dependencies": {
+          "CapaAccesoDatos": "1.0.0",
+          "CapaEntidades": "1.0.0"
+        },
+        "runtime": {
+          "CapaLogicaNegocio.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CapaGUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CapaAccesoDatos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CapaEntidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CapaLogicaNegocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

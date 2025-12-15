@@ -1,0 +1,11 @@
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaPresentacion\bin\Debug\net8.0\CapaPresentacion.deps.json
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaPresentacion\bin\Debug\net8.0\CapaPresentacion.dll
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaPresentacion\bin\Debug\net8.0\CapaPresentacion.pdb
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaPresentacion\obj\Debug\net8.0\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaPresentacion\obj\Debug\net8.0\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaPresentacion\obj\Debug\net8.0\CapaPresentacion.AssemblyInfo.cs
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaPresentacion\obj\Debug\net8.0\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaPresentacion\obj\Debug\net8.0\CapaPresentacion.dll
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaPresentacion\obj\Debug\net8.0\refint\CapaPresentacion.dll
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaPresentacion\obj\Debug\net8.0\CapaPresentacion.pdb
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaPresentacion\obj\Debug\net8.0\ref\CapaPresentacion.dll

@@ -1,0 +1,96 @@
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.deps.json
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.dll
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.pdb
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.AssemblyInfo.cs
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.dll
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaAccesoDatos\obj\Debug\net8.0\refint\CapaAccesoDatos.dll
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.pdb
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaAccesoDatos\obj\Debug\net8.0\ref\CapaAccesoDatos.dll
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaAccesoDatos\bin\Debug\net8.0\CapaEntidades.dll
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaAccesoDatos\bin\Debug\net8.0\CapaEntidades.pdb
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaAccesoDatos\obj\Debug\net8.0\CapaAcce.1AD5E18C.Up2Date
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.deps.json
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.dll
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.pdb
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaAccesoDatos\bin\Debug\net8.0\CapaEntidades.dll
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaAccesoDatos\bin\Debug\net8.0\CapaEntidades.pdb
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.AssemblyInfo.cs
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaAccesoDatos\obj\Debug\net8.0\CapaAcce.1AD5E18C.Up2Date
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.dll
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaAccesoDatos\obj\Debug\net8.0\refint\CapaAccesoDatos.dll
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.pdb
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaAccesoDatos\obj\Debug\net8.0\ref\CapaAccesoDatos.dll
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.deps.json
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.dll
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.pdb
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaAccesoDatos\bin\Debug\net8.0\CapaEntidades.dll
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaAccesoDatos\bin\Debug\net8.0\CapaEntidades.pdb
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.AssemblyInfo.cs
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaAccesoDatos\obj\Debug\net8.0\CapaAcce.1AD5E18C.Up2Date
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.dll
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaAccesoDatos\obj\Debug\net8.0\refint\CapaAccesoDatos.dll
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.pdb
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaAccesoDatos\obj\Debug\net8.0\ref\CapaAccesoDatos.dll
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.deps.json
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.dll
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.pdb
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaAccesoDatos\bin\Debug\net8.0\CapaEntidades.dll
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaAccesoDatos\bin\Debug\net8.0\CapaEntidades.pdb
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.AssemblyInfo.cs
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaAccesoDatos\obj\Debug\net8.0\CapaAcce.1AD5E18C.Up2Date
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.dll
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaAccesoDatos\obj\Debug\net8.0\refint\CapaAccesoDatos.dll
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.pdb
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaAccesoDatos\obj\Debug\net8.0\ref\CapaAccesoDatos.dll
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaAccesoDatos\bin\Debug\net8.0\CapaLogicaNegocio.dll
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaAccesoDatos\bin\Debug\net8.0\CapaLogicaNegocio.pdb
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.deps.json
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.pdb
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaAccesoDatos\bin\Debug\net8.0\CapaEntidades.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaAccesoDatos\bin\Debug\net8.0\CapaLogicaNegocio.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaAccesoDatos\bin\Debug\net8.0\CapaEntidades.pdb
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaAccesoDatos\bin\Debug\net8.0\CapaLogicaNegocio.pdb
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.AssemblyInfo.cs
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaAccesoDatos\obj\Debug\net8.0\CapaAcce.1AD5E18C.Up2Date
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaAccesoDatos\obj\Debug\net8.0\refint\CapaAccesoDatos.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.pdb
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaAccesoDatos\obj\Debug\net8.0\ref\CapaAccesoDatos.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.deps.json
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaAccesoDatos\bin\Debug\net8.0\CapaAccesoDatos.pdb
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaAccesoDatos\bin\Debug\net8.0\CapaEntidades.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaAccesoDatos\bin\Debug\net8.0\CapaLogicaNegocio.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaAccesoDatos\bin\Debug\net8.0\CapaEntidades.pdb
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaAccesoDatos\bin\Debug\net8.0\CapaLogicaNegocio.pdb
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.AssemblyInfo.cs
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaAccesoDatos\obj\Debug\net8.0\CapaAcce.1AD5E18C.Up2Date
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaAccesoDatos\obj\Debug\net8.0\refint\CapaAccesoDatos.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaAccesoDatos\obj\Debug\net8.0\CapaAccesoDatos.pdb
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaAccesoDatos\obj\Debug\net8.0\ref\CapaAccesoDatos.dll

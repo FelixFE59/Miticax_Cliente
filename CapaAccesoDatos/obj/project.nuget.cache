@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "36+9yoVJ6DY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aazzy\\OneDrive\\Escritorio\\Miticax_Cliente\\CapaAccesoDatos\\CapaAccesoDatos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aazzy\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\aazzy\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\aazzy\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\aazzy\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\aazzy\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\aazzy\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.10\\system.configuration.configurationmanager.9.0.10.nupkg.sha512",
+    "C:\\Users\\aazzy\\.nuget\\packages\\system.data.sqlclient\\4.9.0\\system.data.sqlclient.4.9.0.nupkg.sha512",
+    "C:\\Users\\aazzy\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.10\\system.diagnostics.eventlog.9.0.10.nupkg.sha512",
+    "C:\\Users\\aazzy\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.10\\system.security.cryptography.protecteddata.9.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

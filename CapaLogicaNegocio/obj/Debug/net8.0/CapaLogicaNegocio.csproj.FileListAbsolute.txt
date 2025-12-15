@@ -1,0 +1,96 @@
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaLogicaNegocio\bin\Debug\net8.0\CapaLogicaNegocio.deps.json
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaLogicaNegocio\bin\Debug\net8.0\CapaLogicaNegocio.dll
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaLogicaNegocio\bin\Debug\net8.0\CapaLogicaNegocio.pdb
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.AssemblyInfo.cs
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.dll
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaLogicaNegocio\obj\Debug\net8.0\refint\CapaLogicaNegocio.dll
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.pdb
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaLogicaNegocio\obj\Debug\net8.0\ref\CapaLogicaNegocio.dll
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaLogicaNegocio\bin\Debug\net8.0\CapaAccesoDatos.dll
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaLogicaNegocio\bin\Debug\net8.0\CapaEntidades.dll
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaLogicaNegocio\bin\Debug\net8.0\CapaAccesoDatos.pdb
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaLogicaNegocio\bin\Debug\net8.0\CapaEntidades.pdb
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogi.BF2FE080.Up2Date
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaLogicaNegocio\bin\Debug\net8.0\CapaLogicaNegocio.deps.json
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaLogicaNegocio\bin\Debug\net8.0\CapaLogicaNegocio.dll
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaLogicaNegocio\bin\Debug\net8.0\CapaLogicaNegocio.pdb
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaLogicaNegocio\bin\Debug\net8.0\CapaAccesoDatos.dll
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaLogicaNegocio\bin\Debug\net8.0\CapaEntidades.dll
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaLogicaNegocio\bin\Debug\net8.0\CapaAccesoDatos.pdb
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaLogicaNegocio\bin\Debug\net8.0\CapaEntidades.pdb
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.AssemblyInfo.cs
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogi.BF2FE080.Up2Date
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.dll
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaLogicaNegocio\obj\Debug\net8.0\refint\CapaLogicaNegocio.dll
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.pdb
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaLogicaNegocio\obj\Debug\net8.0\ref\CapaLogicaNegocio.dll
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaLogicaNegocio\bin\Debug\net8.0\CapaLogicaNegocio.deps.json
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaLogicaNegocio\bin\Debug\net8.0\CapaLogicaNegocio.dll
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaLogicaNegocio\bin\Debug\net8.0\CapaLogicaNegocio.pdb
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaLogicaNegocio\bin\Debug\net8.0\CapaAccesoDatos.dll
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaLogicaNegocio\bin\Debug\net8.0\CapaEntidades.dll
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaLogicaNegocio\bin\Debug\net8.0\CapaAccesoDatos.pdb
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaLogicaNegocio\bin\Debug\net8.0\CapaEntidades.pdb
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.AssemblyInfo.cs
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogi.BF2FE080.Up2Date
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.dll
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaLogicaNegocio\obj\Debug\net8.0\refint\CapaLogicaNegocio.dll
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.pdb
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaLogicaNegocio\obj\Debug\net8.0\ref\CapaLogicaNegocio.dll
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaLogicaNegocio\bin\Debug\net8.0\CapaLogicaNegocio.deps.json
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaLogicaNegocio\bin\Debug\net8.0\CapaLogicaNegocio.dll
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaLogicaNegocio\bin\Debug\net8.0\CapaLogicaNegocio.pdb
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaLogicaNegocio\bin\Debug\net8.0\CapaEntidades.dll
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaLogicaNegocio\bin\Debug\net8.0\CapaEntidades.pdb
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.AssemblyInfo.cs
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogi.BF2FE080.Up2Date
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.dll
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaLogicaNegocio\obj\Debug\net8.0\refint\CapaLogicaNegocio.dll
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.pdb
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaLogicaNegocio\obj\Debug\net8.0\ref\CapaLogicaNegocio.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaLogicaNegocio\bin\Debug\net8.0\CapaLogicaNegocio.deps.json
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaLogicaNegocio\bin\Debug\net8.0\CapaLogicaNegocio.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaLogicaNegocio\bin\Debug\net8.0\CapaLogicaNegocio.pdb
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaLogicaNegocio\bin\Debug\net8.0\CapaEntidades.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaLogicaNegocio\bin\Debug\net8.0\CapaEntidades.pdb
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.AssemblyInfo.cs
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogi.BF2FE080.Up2Date
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaLogicaNegocio\obj\Debug\net8.0\refint\CapaLogicaNegocio.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.pdb
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaLogicaNegocio\obj\Debug\net8.0\ref\CapaLogicaNegocio.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaLogicaNegocio\bin\Debug\net8.0\CapaLogicaNegocio.deps.json
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaLogicaNegocio\bin\Debug\net8.0\CapaLogicaNegocio.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaLogicaNegocio\bin\Debug\net8.0\CapaLogicaNegocio.pdb
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaLogicaNegocio\bin\Debug\net8.0\CapaEntidades.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaLogicaNegocio\bin\Debug\net8.0\CapaEntidades.pdb
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.AssemblyInfo.cs
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogi.BF2FE080.Up2Date
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaLogicaNegocio\obj\Debug\net8.0\refint\CapaLogicaNegocio.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaLogicaNegocio\obj\Debug\net8.0\CapaLogicaNegocio.pdb
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaLogicaNegocio\obj\Debug\net8.0\ref\CapaLogicaNegocio.dll

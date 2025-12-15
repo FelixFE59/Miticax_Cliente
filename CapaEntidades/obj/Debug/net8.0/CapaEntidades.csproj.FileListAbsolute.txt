@@ -1,0 +1,66 @@
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaEntidades\bin\Debug\net8.0\CapaEntidades.deps.json
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaEntidades\bin\Debug\net8.0\CapaEntidades.dll
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaEntidades\bin\Debug\net8.0\CapaEntidades.pdb
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaEntidades\obj\Debug\net8.0\CapaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaEntidades\obj\Debug\net8.0\CapaEntidades.AssemblyInfoInputs.cache
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaEntidades\obj\Debug\net8.0\CapaEntidades.AssemblyInfo.cs
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaEntidades\obj\Debug\net8.0\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaEntidades\obj\Debug\net8.0\CapaEntidades.dll
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaEntidades\obj\Debug\net8.0\refint\CapaEntidades.dll
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaEntidades\obj\Debug\net8.0\CapaEntidades.pdb
+C:\Users\aazzy\source\repos\MiticaxJuego\CapaEntidades\obj\Debug\net8.0\ref\CapaEntidades.dll
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaEntidades\bin\Debug\net8.0\CapaEntidades.deps.json
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaEntidades\bin\Debug\net8.0\CapaEntidades.dll
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaEntidades\bin\Debug\net8.0\CapaEntidades.pdb
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaEntidades\obj\Debug\net8.0\CapaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaEntidades\obj\Debug\net8.0\CapaEntidades.AssemblyInfoInputs.cache
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaEntidades\obj\Debug\net8.0\CapaEntidades.AssemblyInfo.cs
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaEntidades\obj\Debug\net8.0\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaEntidades\obj\Debug\net8.0\CapaEntidades.dll
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaEntidades\obj\Debug\net8.0\refint\CapaEntidades.dll
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaEntidades\obj\Debug\net8.0\CapaEntidades.pdb
+C:\Users\aazzy\source\repos\FelixRios-Proyecto1\CapaEntidades\obj\Debug\net8.0\ref\CapaEntidades.dll
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaEntidades\bin\Debug\net8.0\CapaEntidades.deps.json
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaEntidades\bin\Debug\net8.0\CapaEntidades.dll
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaEntidades\bin\Debug\net8.0\CapaEntidades.pdb
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaEntidades\obj\Debug\net8.0\CapaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaEntidades\obj\Debug\net8.0\CapaEntidades.AssemblyInfoInputs.cache
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaEntidades\obj\Debug\net8.0\CapaEntidades.AssemblyInfo.cs
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaEntidades\obj\Debug\net8.0\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaEntidades\obj\Debug\net8.0\CapaEntidades.dll
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaEntidades\obj\Debug\net8.0\refint\CapaEntidades.dll
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaEntidades\obj\Debug\net8.0\CapaEntidades.pdb
+C:\Users\aazzy\Downloads\FelixRios-Proyecto2\FelixRios-Proyecto2\CapaEntidades\obj\Debug\net8.0\ref\CapaEntidades.dll
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaEntidades\bin\Debug\net8.0\CapaEntidades.deps.json
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaEntidades\bin\Debug\net8.0\CapaEntidades.dll
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaEntidades\bin\Debug\net8.0\CapaEntidades.pdb
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaEntidades\obj\Debug\net8.0\CapaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaEntidades\obj\Debug\net8.0\CapaEntidades.AssemblyInfoInputs.cache
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaEntidades\obj\Debug\net8.0\CapaEntidades.AssemblyInfo.cs
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaEntidades\obj\Debug\net8.0\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaEntidades\obj\Debug\net8.0\CapaEntidades.dll
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaEntidades\obj\Debug\net8.0\refint\CapaEntidades.dll
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaEntidades\obj\Debug\net8.0\CapaEntidades.pdb
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaEntidades\obj\Debug\net8.0\ref\CapaEntidades.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaEntidades\bin\Debug\net8.0\CapaEntidades.deps.json
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaEntidades\bin\Debug\net8.0\CapaEntidades.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaEntidades\bin\Debug\net8.0\CapaEntidades.pdb
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaEntidades\obj\Debug\net8.0\CapaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaEntidades\obj\Debug\net8.0\CapaEntidades.AssemblyInfoInputs.cache
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaEntidades\obj\Debug\net8.0\CapaEntidades.AssemblyInfo.cs
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaEntidades\obj\Debug\net8.0\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaEntidades\obj\Debug\net8.0\CapaEntidades.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaEntidades\obj\Debug\net8.0\refint\CapaEntidades.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaEntidades\obj\Debug\net8.0\CapaEntidades.pdb
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaEntidades\obj\Debug\net8.0\ref\CapaEntidades.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaEntidades\bin\Debug\net8.0\CapaEntidades.deps.json
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaEntidades\bin\Debug\net8.0\CapaEntidades.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaEntidades\bin\Debug\net8.0\CapaEntidades.pdb
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaEntidades\obj\Debug\net8.0\CapaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaEntidades\obj\Debug\net8.0\CapaEntidades.AssemblyInfoInputs.cache
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaEntidades\obj\Debug\net8.0\CapaEntidades.AssemblyInfo.cs
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaEntidades\obj\Debug\net8.0\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaEntidades\obj\Debug\net8.0\CapaEntidades.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaEntidades\obj\Debug\net8.0\refint\CapaEntidades.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaEntidades\obj\Debug\net8.0\CapaEntidades.pdb
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaEntidades\obj\Debug\net8.0\ref\CapaEntidades.dll

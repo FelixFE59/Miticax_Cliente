@@ -1,0 +1,135 @@
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.csproj.AssemblyReference.cache
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.frmBatallas.resources
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.frmEquipo.resources
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.frmInventario.resources
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.frmLogin.resources
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.frmPrincipal.resources
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.frmRondas.resources
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.frmTopGanadores.resources
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.Properties.Resources.resources
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.csproj.GenerateResource.cache
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.AssemblyInfoInputs.cache
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.AssemblyInfo.cs
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.csproj.CoreCompileInputs.cache
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.frmRegistro.resources
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\CapaGUI.exe
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\CapaGUI.deps.json
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\CapaGUI.runtimeconfig.json
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\CapaGUI.dll
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\CapaGUI.pdb
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\Newtonsoft.Json.dll
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\System.Data.SqlClient.dll
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\System.Diagnostics.EventLog.dll
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\sni.dll
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\sni.dll
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\CapaAccesoDatos.dll
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\CapaEntidades.dll
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\CapaLogicaNegocio.dll
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\CapaAccesoDatos.pdb
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\CapaEntidades.pdb
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\CapaLogicaNegocio.pdb
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.csproj.Up2Date
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.dll
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\refint\CapaGUI.dll
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.pdb
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.genruntimeconfig.cache
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\ref\CapaGUI.dll
+C:\Users\aazzy\OneDrive\Escritorio\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI..resources
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\CapaGUI.exe
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\CapaGUI.deps.json
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\CapaGUI.runtimeconfig.json
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\CapaGUI.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\CapaGUI.pdb
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\Newtonsoft.Json.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\System.Data.SqlClient.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\System.Diagnostics.EventLog.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\sni.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\sni.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\CapaAccesoDatos.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\CapaEntidades.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\CapaLogicaNegocio.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\CapaAccesoDatos.pdb
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\CapaEntidades.pdb
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\bin\Debug\net8.0-windows7.0\CapaLogicaNegocio.pdb
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.csproj.AssemblyReference.cache
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI..resources
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.frmBatallas.resources
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.frmEquipo.resources
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.frmInventario.resources
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.frmLogin.resources
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.frmPrincipal.resources
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.frmRegistro.resources
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.frmRondas.resources
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.frmTopGanadores.resources
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.Properties.Resources.resources
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.csproj.GenerateResource.cache
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.AssemblyInfoInputs.cache
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.AssemblyInfo.cs
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.csproj.CoreCompileInputs.cache
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.csproj.Up2Date
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\refint\CapaGUI.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.pdb
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.genruntimeconfig.cache
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\FelixRios-Proyecto2\CapaGUI\obj\Debug\net8.0-windows7.0\ref\CapaGUI.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\bin\Debug\net8.0-windows7.0\CapaGUI.exe
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\bin\Debug\net8.0-windows7.0\CapaGUI.deps.json
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\bin\Debug\net8.0-windows7.0\CapaGUI.runtimeconfig.json
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\bin\Debug\net8.0-windows7.0\CapaGUI.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\bin\Debug\net8.0-windows7.0\CapaGUI.pdb
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\bin\Debug\net8.0-windows7.0\Newtonsoft.Json.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\bin\Debug\net8.0-windows7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\bin\Debug\net8.0-windows7.0\System.Data.SqlClient.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\bin\Debug\net8.0-windows7.0\System.Diagnostics.EventLog.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\bin\Debug\net8.0-windows7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\bin\Debug\net8.0-windows7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\sni.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\sni.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\bin\Debug\net8.0-windows7.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\bin\Debug\net8.0-windows7.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\bin\Debug\net8.0-windows7.0\CapaAccesoDatos.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\bin\Debug\net8.0-windows7.0\CapaEntidades.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\bin\Debug\net8.0-windows7.0\CapaLogicaNegocio.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\bin\Debug\net8.0-windows7.0\CapaAccesoDatos.pdb
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\bin\Debug\net8.0-windows7.0\CapaEntidades.pdb
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\bin\Debug\net8.0-windows7.0\CapaLogicaNegocio.pdb
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.csproj.AssemblyReference.cache
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI..resources
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.frmBatallas.resources
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.frmEquipo.resources
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.frmInventario.resources
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.frmLogin.resources
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.frmPrincipal.resources
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.frmRegistro.resources
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.frmRondas.resources
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.frmTopGanadores.resources
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.Properties.Resources.resources
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.csproj.GenerateResource.cache
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.AssemblyInfoInputs.cache
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.AssemblyInfo.cs
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.csproj.CoreCompileInputs.cache
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.csproj.Up2Date
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\obj\Debug\net8.0-windows7.0\refint\CapaGUI.dll
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.pdb
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\obj\Debug\net8.0-windows7.0\CapaGUI.genruntimeconfig.cache
+C:\Users\aazzy\OneDrive\Escritorio\Proyecto #2_Miticax\FelixRios-Proyecto2 Cliente\Miticax_Cliente\CapaGUI\obj\Debug\net8.0-windows7.0\ref\CapaGUI.dll
